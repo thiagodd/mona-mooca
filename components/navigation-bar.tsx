@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import Link from "next/link"
 import { Menu, X } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Image from "next/image";
 
 export default function NavigationBar() {
   const [isScrolled, setIsScrolled] = useState(false)
@@ -42,7 +43,7 @@ export default function NavigationBar() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between">
             <Link href="#hero" className="text-2xl font-bold text-white">
-              MONÁ MOOCA
+              <Image src={"/logo-no-bg.svg"} alt={"Texto logo"} width={140} height={140}></Image>
             </Link>
 
             {/* Desktop Navigation */}

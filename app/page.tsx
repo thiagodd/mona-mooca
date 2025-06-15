@@ -13,9 +13,9 @@ import NavigationBar from "@/components/navigation-bar"
 import NeighborhoodSection from "@/components/neighborhood-section";
 
 export const metadata: Metadata = {
-    title: "Moná Mooca | Empreendimento de Luxo em São Paulo",
+    title: "Monã Mooca | Empreendimento de Luxo em São Paulo",
     description:
-        "Conheça o Moná Mooca, um projeto monumental com mais de 7 mil m² que une design contemporâneo, bem-estar e lazer surpreendente no coração da Mooca.",
+        "Conheça o Monã Mooca, um projeto monumental com mais de 7 mil m² que une design contemporâneo, bem-estar e lazer surpreendente no coração da Mooca.",
 }
 
 export default function Home() {

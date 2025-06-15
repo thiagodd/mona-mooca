@@ -90,7 +90,7 @@ export default function NeighborhoodSection() {
               allowFullScreen={false}
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Mapa da localização do Moná Mooca"
+              title="Mapa da localização do Monã Mooca"
             ></iframe>
           </div>
         </div>

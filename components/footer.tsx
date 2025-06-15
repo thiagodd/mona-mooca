@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
           <div>
             <Link href="#hero" className="mb-6 inline-block text-2xl font-bold">
-              MONÁ MOOCA
+              MONÃ MOOCA
             </Link>
             <p className="mb-4 text-gray-400">
               Um projeto monumental que une design contemporâneo, bem-estar e lazer surpreendente no coração da Mooca.

@@ -52,31 +52,31 @@ const galleryItems = [
     image: "/images/gallery/aptos/apto-1.jpeg",
   },
   {
-    id: 3,
+    id: 7,
     title: "Piscina e Deck",
     category: "leisure",
     image: "/placeholder.svg?height=400&width=600&text=Piscina+e+Deck",
   },
   {
-    id: 4,
+    id: 8,
     title: "Fachada Principal",
     category: "facade",
     image: "/placeholder.svg?height=400&width=600&text=Fachada+Principal",
   },
   {
-    id: 5,
+    id: 9,
     title: "Lobby de Entrada",
     category: "common",
     image: "/placeholder.svg?height=400&width=600&text=Lobby+de+Entrada",
   },
   {
-    id: 7,
+    id: 10,
     title: "Espaço Gourmet",
     category: "common",
     image: "/placeholder.svg?height=400&width=600&text=Espaço+Gourmet",
   },
   {
-    id: 8,
+    id: 11,
     title: "Academia",
     category: "leisure",
     image: "/placeholder.svg?height=400&width=600&text=Academia",
@@ -101,7 +101,7 @@ export default function GallerySection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-sm font-bold text-red-600 uppercase tracking-wider mb-2">Galeria</h2>
-          <h3 className="text-4xl font-bold mb-4">Conheça o Moná Mooca</h3>
+          <h3 className="text-4xl font-bold mb-4">Conheça o Monã Mooca</h3>
           <div className="w-20 h-1 bg-red-600 mx-auto"></div>
         </div>
 

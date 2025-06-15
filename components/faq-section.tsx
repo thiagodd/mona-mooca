@@ -17,12 +17,12 @@ const faqs: FAQItem[] = [
   {
     question: "Qual é o prazo de entrega do empreendimento?",
     answer:
-      "O Moná Mooca tem previsão de entrega para o segundo semestre de 2025. Todas as etapas da construção estão sendo rigorosamente acompanhadas para garantir a qualidade e o cumprimento do cronograma.",
+      "O Monã Mooca tem previsão de entrega para o segundo semestre de 2025. Todas as etapas da construção estão sendo rigorosamente acompanhadas para garantir a qualidade e o cumprimento do cronograma.",
   },
   {
     question: "O empreendimento possui vagas de garagem?",
     answer:
-      "Sim, todos os apartamentos do Moná Mooca contam com vagas de garagem. As unidades de 3 suítes possuem 2 vagas, enquanto as unidades de 4 suítes contam com 3 vagas, sendo uma delas com carregador para carro elétrico.",
+      "Sim, todos os apartamentos do Monã Mooca contam com vagas de garagem. As unidades de 3 suítes possuem 2 vagas, enquanto as unidades de 4 suítes contam com 3 vagas, sendo uma delas com carregador para carro elétrico.",
   },
   {
     question: "É permitido fazer modificações no projeto do apartamento?",
@@ -37,7 +37,7 @@ const faqs: FAQItem[] = [
   {
     question: "O empreendimento aceita animais de estimação?",
     answer:
-      "Sim, o Moná Mooca é pet friendly. Além disso, contamos com um espaço dedicado aos pets, com área de recreação e estação de higienização.",
+      "Sim, o Monã Mooca é pet friendly. Além disso, contamos com um espaço dedicado aos pets, com área de recreação e estação de higienização.",
   },
 ]
 

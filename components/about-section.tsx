@@ -17,7 +17,7 @@ export default function AboutSection() {
             <h4 className="text-2xl font-bold mb-6">Exclusividade e Tradição em um Endereço Único</h4>
             <p className="text-gray-700 mb-6">
               A Diálogo Engenharia traz um projeto monumental em um terreno enorme com mais de 7 mil m². O{" "}
-              <span className="font-bold">Moná Mooca</span> une design contemporâneo, bem-estar e um lazer
+              <span className="font-bold">Monã Mooca</span> une design contemporâneo, bem-estar e um lazer
               surpreendente. Aqui, a exclusividade encontra a tradição em um endereço único, com espaços generosos e uma
               arquitetura que eleva a sua experiência de morar.
             </p>
@@ -52,7 +52,7 @@ export default function AboutSection() {
             <div className="relative z-10">
               <Image
                 src="/images/banner/real-state.webp"
-                alt="Fachada Moná Mooca"
+                alt="Fachada Monã Mooca"
                 width={400}
                 height={500}
                 className="rounded-lg shadow-xl object-cover"

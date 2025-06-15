@@ -10,7 +10,7 @@ const testimonials = [
     name: "Carlos Oliveira",
     role: "Empresário",
     content:
-      "Investir no Moná Mooca foi uma das melhores decisões que tomei. A qualidade da construção, a localização privilegiada e as áreas de lazer superaram todas as minhas expectativas. Recomendo a todos que buscam exclusividade e conforto.",
+      "Investir no Monã Mooca foi uma das melhores decisões que tomei. A qualidade da construção, a localização privilegiada e as áreas de lazer superaram todas as minhas expectativas. Recomendo a todos que buscam exclusividade e conforto.",
     avatar: "/placeholder.svg?height=100&width=100&text=CO",
     rating: 5,
   },
@@ -19,7 +19,7 @@ const testimonials = [
     name: "Ana Paula Silva",
     role: "Arquiteta",
     content:
-      "Como profissional da área, posso afirmar que o Moná Mooca é um projeto excepcional. Os detalhes arquitetônicos, a distribuição dos espaços e o acabamento premium demonstram o compromisso com a excelência. Um verdadeiro marco na região.",
+      "Como profissional da área, posso afirmar que o Monã Mooca é um projeto excepcional. Os detalhes arquitetônicos, a distribuição dos espaços e o acabamento premium demonstram o compromisso com a excelência. Um verdadeiro marco na região.",
     avatar: "/placeholder.svg?height=100&width=100&text=AS",
     rating: 5,
   },
@@ -28,7 +28,7 @@ const testimonials = [
     name: "Roberto Mendes",
     role: "Médico",
     content:
-      "Minha família e eu estamos encantados com nosso apartamento no Moná Mooca. A segurança, o conforto e a praticidade de ter tantas opções de lazer no próprio condomínio transformaram nossa qualidade de vida. Valeu cada centavo investido.",
+      "Minha família e eu estamos encantados com nosso apartamento no Monã Mooca. A segurança, o conforto e a praticidade de ter tantas opções de lazer no próprio condomínio transformaram nossa qualidade de vida. Valeu cada centavo investido.",
     avatar: "/placeholder.svg?height=100&width=100&text=RM",
     rating: 5,
   },

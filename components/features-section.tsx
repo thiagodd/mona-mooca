@@ -20,14 +20,14 @@ const features: Feature[] = [
   {
     name: "Localização Estratégica",
     description:
-      "Situado no coração da Mooca, um dos bairros mais tradicionais de São Paulo, o Moná Mooca oferece fácil acesso às principais vias da cidade, comércio local, restaurantes renomados e áreas de lazer.",
+      "Situado no coração da Mooca, um dos bairros mais tradicionais de São Paulo, o Monã Mooca oferece fácil acesso às principais vias da cidade, comércio local, restaurantes renomados e áreas de lazer.",
     icon: <MapPin className="h-6 w-6" />,
     image: "/images/about/premium-location.png",
   },
   {
     name: "Arquitetura Premium",
     description:
-      "Projetado por renomados arquitetos, o Moná Mooca apresenta uma fachada imponente e contemporânea, com materiais de alta qualidade e acabamento impecável, refletindo sofisticação em cada detalhe.",
+      "Projetado por renomados arquitetos, o Monã Mooca apresenta uma fachada imponente e contemporânea, com materiais de alta qualidade e acabamento impecável, refletindo sofisticação em cada detalhe.",
     icon: <Home className="h-6 w-6" />,
     image: "/images/about/arquitetura.png",
   },
@@ -36,14 +36,14 @@ const features: Feature[] = [
     description:
       "Sistema de segurança de última geração, com monitoramento 24 horas, controle de acesso biométrico, câmeras de vigilância em pontos estratégicos e equipe de segurança altamente treinada.",
     icon: <Shield className="h-6 w-6" />,
-    image: "/placeholder.svg?height=400&width=600&text=Segurança+Moná+Mooca",
+    image: "/placeholder.svg?height=400&width=600&text=Segurança+Monã+Mooca",
   },
   {
     name: "Sustentabilidade",
     description:
-      "Comprometido com o meio ambiente, o Moná Mooca conta com sistema de captação de água da chuva, painéis solares, iluminação LED em áreas comuns e coleta seletiva de resíduos.",
+      "Comprometido com o meio ambiente, o Monã Mooca conta com sistema de captação de água da chuva, painéis solares, iluminação LED em áreas comuns e coleta seletiva de resíduos.",
     icon: <Leaf className="h-6 w-6" />,
-    image: "/placeholder.svg?height=400&width=600&text=Sustentabilidade+Moná+Mooca",
+    image: "/placeholder.svg?height=400&width=600&text=Sustentabilidade+Monã+Mooca",
   },
 ]
 
@@ -52,9 +52,9 @@ export default function FeaturesSection() {
     <section id="features" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-sm font-bold text-red-600 uppercase tracking-wider mb-2">Diferenciais</h2>
-          <h3 className="text-4xl font-bold mb-4">Por que escolher o Moná Mooca</h3>
-          <div className="w-20 h-1 bg-red-600 mx-auto"></div>
+          <h2 className="text-sm font-bold  text-yellow-600 uppercase tracking-wider mb-2">Diferenciais</h2>
+          <h3 className="text-4xl font-bold mb-4">Por que escolher o Monã Mooca</h3>
+          <div className="w-20 h-1 bg-yellow-600 mx-auto"></div>
         </div>
 
         <Tab.Group>

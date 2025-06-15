@@ -11,6 +11,8 @@ const heroImages = [
     "/images/banner/banner-4.jpeg",
 ]
 
+
+
 export default function HeroSection() {
     const [currentSlide, setCurrentSlide] = useState(0)
 
@@ -54,7 +56,7 @@ export default function HeroSection() {
             <div className="absolute inset-0 z-10 flex items-center justify-center text-center">
                 <div className="container mx-auto px-4">
                     <h1 className="mb-6 text-5xl md:text-7xl font-bold text-white leading-tight">
-                        Moná Mooca
+                        Monã Mooca
                         <span className="block text-red-500">Luxo e Exclusividade</span>
                     </h1>
                     <p className="mb-8 text-xl text-white/90 max-w-3xl mx-auto">
@@ -65,10 +67,15 @@ export default function HeroSection() {
                     <div className="flex flex-col sm:flex-row justify-center gap-4">
                         <Button className="bg-red-600 hover:bg-red-700 text-white text-lg py-6 px-8">Agende uma
                             Visita</Button>
+                        {/*<Button variant="outline"*/}
+                        {/*        className="border-yellow-800 text-white bg-yellow-600 hover:bg-white/10 text-lg py-6 px-8">*/}
+                        {/*    Baixar E-book*/}
+                        {/*</Button>*/}
                         <Button variant="outline"
-                                className="border-white text-white hover:bg-white/10 text-lg py-6 px-8">
+                                className="border-amber-600 text-white bg-gradient-to-r from-yellow-400 via-amber-500 to-yellow-600 hover:from-yellow-300 hover:via-amber-400 hover:to-yellow-500 shadow-lg hover:shadow-xl transition-all duration-300 text-lg py-6 px-8 font-semibold">
                             Baixar E-book
                         </Button>
+
                     </div>
                 </div>
             </div>

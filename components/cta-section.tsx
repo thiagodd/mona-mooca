@@ -11,7 +11,7 @@ export default function CTASection() {
             <h2 className="text-sm font-bold text-red-500 uppercase tracking-wider mb-2">Entre em Contato</h2>
             <h3 className="text-4xl font-bold mb-6">Agende uma Visita ao Decorado</h3>
             <p className="text-gray-300 mb-8">
-              Venha conhecer pessoalmente o Moná Mooca e descubra por que este é o empreendimento mais desejado da
+              Venha conhecer pessoalmente o Monã Mooca e descubra por que este é o empreendimento mais desejado da
               região. Nossos consultores estão prontos para atendê-lo e apresentar todas as vantagens de investir em um
               projeto único e exclusivo.
             </p>
