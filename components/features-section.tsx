@@ -72,7 +72,7 @@ export default function FeaturesSection() {
                   )
                 }
               >
-                <div className="flex items-center justify-center gap-2">
+                <div className="flex items-center justify-center gap-2 ml-4">
                   <span className="hidden md:inline">{feature.icon}</span>
                   <span>{feature.name}</span>
                 </div>

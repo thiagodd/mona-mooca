@@ -49,9 +49,9 @@ export default function TestimonialsSection() {
     <section id="testimonials" className="py-20 bg-black text-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-sm font-bold text-red-500 uppercase tracking-wider mb-2">Depoimentos</h2>
+          <h2 className="text-sm font-bold text-yellow-500 uppercase tracking-wider mb-2">Depoimentos</h2>
           <h3 className="text-4xl font-bold mb-4">O que dizem nossos clientes</h3>
-          <div className="w-20 h-1 bg-red-600 mx-auto"></div>
+          <div className="w-20 h-1 bg-yellow-600 mx-auto"></div>
         </div>
 
         <div className="max-w-4xl mx-auto">
